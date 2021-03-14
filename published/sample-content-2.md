@@ -1,6 +1,6 @@
 ---
 
-title: Title of the post 2
+title: Title of the post 3
 menu_order: 1
 post_status: publish
 post_excerpt: This is a post excerpt
@@ -17,7 +17,7 @@ custom_fields:
 
 ---
 
-## Akışı sağlamak 2
+## Akışı sağlamak 3
 
 Bence üretim sürecinin en önemli safhalarından bir tanesi uygun akışı sağlamak. Uygun akışı sağlamak için de mümkün oldunca pürüzsüz bir alan oluşturmak ve bu alanı her seferinde daha iyiye götürecek adımları atmak. Biraz üstü kapalı bir anlatım gibi oldu farkındayım. 
 
