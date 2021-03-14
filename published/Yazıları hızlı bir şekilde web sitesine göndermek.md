@@ -64,3 +64,19 @@ Senkronize olmasında sıkıntılar çıksada; bence iyi çalışıyor gibi. Bu 
 
 ## Bu kadar
 Bu yazıyıda ilk yazım olarak bu senkronizasyon dosyasına bırakıyorum ve git commit'i yapıyorum.
+
+
+## Bazı testler 🤓
+Bağlantılar için [GitHub](http://github.com)
+Kod:
+```
+[GitHub](http://github.com)
+```
+
+Resim için 
+![[image-0001.png]]
+Kod:
+```
+![[image-0001.png]]
+```
+
