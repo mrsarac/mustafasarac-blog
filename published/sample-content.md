@@ -1,4 +1,3 @@
-```
 ---
 
 title: Title of the post
@@ -18,5 +17,4 @@ custom_fields:
 
 ---
 
-## My post content merhaba
-```
+## My post content 
