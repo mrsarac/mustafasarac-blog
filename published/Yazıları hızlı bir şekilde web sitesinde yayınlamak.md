@@ -1,4 +1,4 @@
-# Yazıları hızlı bir şekilde web sitesine göndermek x
+# Yazıları hızlı bir şekilde web sitesinde yayınlamak
 
 ## Akışı sağlamak
 
