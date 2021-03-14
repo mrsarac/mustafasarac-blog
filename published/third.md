@@ -1,0 +1,2 @@
+# üçüncu dosya denemesi
+gogogo
