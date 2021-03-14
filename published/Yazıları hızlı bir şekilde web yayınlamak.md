@@ -17,7 +17,7 @@ custom_fields:
 
 ---
 
-## Akışı sağlamak
+## Akışı sağlamak 2
 
 Bence üretim sürecinin en önemli safhalarından bir tanesi uygun akışı sağlamak. Uygun akışı sağlamak için de mümkün oldunca pürüzsüz bir alan oluşturmak ve bu alanı her seferinde daha iyiye götürecek adımları atmak. Biraz üstü kapalı bir anlatım gibi oldu farkındayım. 
 
