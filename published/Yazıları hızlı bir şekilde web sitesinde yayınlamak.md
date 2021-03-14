@@ -1,5 +1,4 @@
-# Yazıları hızlı bir şekilde web sitesinde yayınlamak
-
+# Yazıları hızlı bir şekilde web sitesinde yayınlamak 
 ## Akışı sağlamak
 
 Bence üretim sürecinin en önemli safhalarından bir tanesi uygun akışı sağlamak. Uygun akışı sağlamak için de mümkün oldunca pürüzsüz bir alan oluşturmak ve bu alanı her seferinde daha iyiye götürecek adımları atmak. Biraz üstü kapalı bir anlatım gibi oldu farkındayım. 
@@ -74,9 +73,9 @@ Kod:
 ```
 
 Resim için 
-[alt text](/_images/image-0001.png "This is a pic")
+[alt text](image-0001.png "This is a pic")
 Kod:
 ```
-[alt text](/_images/image-0001.png "This is a pic")
+[alt text](image-0001.png "This is a pic")
 ```
 
