@@ -1,6 +1,6 @@
 ---
 
-title: Yazıları hızlı bir şekilde web yayınlamak 13:15
+title: Title of the post 2
 menu_order: 1
 post_status: publish
 post_excerpt: This is a post excerpt
