@@ -96,3 +96,5 @@ Senkronize olmasında sıkıntılar çıksa da; bence iyi çalışıyor gibi. Bu
 
 ## Bu kadar
 Bu yazıyı da ilk yazım olarak bu senkronizasyon dosyasına bırakıyorum ve git commit'i yapıyorum.
+
+x
