@@ -74,9 +74,9 @@ Kod:
 ```
 
 Resim için 
-![[image-0001.png]]
+[alt text](/_images/image-0001.png "This is a pic")
 Kod:
 ```
-![[image-0001.png]]
+[alt text](/_images/image-0001.png "This is a pic")
 ```
 
