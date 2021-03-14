@@ -88,7 +88,6 @@ Sonrasında...
 git commit -m "GitHub üzerindeki ilk yazım"
 ```
 
-
 Ve gönderdiğim dosya anında yayınlandı.
 
 ## Küçük bir ek
