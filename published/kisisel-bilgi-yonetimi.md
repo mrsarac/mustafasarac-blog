@@ -9,3 +9,5 @@ post_status: publish
 Bu dünya kişisel bilgi yönetiminin önemini 
 ne zaman kavrayacak?
 
+asfdasf
+
