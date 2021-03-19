@@ -9,5 +9,5 @@ post_status: publish
 Bu dünya kişisel bilgi yönetiminin önemini 
 ne zaman kavrayacak?
 
-asfdasf
+## [Yazıları hızlı bir şekilde webde yayımlamak](https://mustafasarac.com/yazilari-hizli-bir-sekilde-webde-yayimlamak/ "Yazıları hızlı bir şekilde webde yayımlamak")
 
